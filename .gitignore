@@ -1,0 +1,6 @@
+# ignored files
+node_modules
+notes.txt
+/dist
+.parcel-cache
+coverage

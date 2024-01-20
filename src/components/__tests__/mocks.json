@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "85777",
+        "name": "Hotel Maharaja and Fast Food",
+        "cloudinaryImageId": "oapbfe5a3ftryfzjxr7u",
+        "locality": "Hb Colony",
+        "areaName": "Baramunda",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "Indian",
+            "Chinese",
+            "Tandoor",
+            "Biryani"
+        ],
+        "avgRating": 3.8,
+        "feeDetails": {
+            "restaurantId": "85777",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 2600
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 2600
+        },
+        "parentId": "100050",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 4.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "27 mins",
+            "lastMileTravelString": "4.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-01 23:10:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹125 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/hotel-maharaja-and-fast-food-hb-colony-baramunda-bhubaneswar-85777",
+        "type": "WEBLINK"
+    }
+}

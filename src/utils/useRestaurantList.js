@@ -11,7 +11,7 @@ const useRestaurantList = ()=>{
     },[])
 
     const fetchData = async()=>{
-       const data = await fetch('https://cors-anywhere.herokuapp.com/'+RESLIST_API);
+       const data = await fetch(RESLIST_API);
        const json =await data.json();
        const restaurants = json?.data?.cards?.[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants;
        setListOfRestaurants(restaurants);
